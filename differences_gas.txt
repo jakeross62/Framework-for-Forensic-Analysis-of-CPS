@@ -1,0 +1,72 @@
+
+Attack Type: 1 - NMRI - Naive Malicious Response Injection Attack
+Columns with significant differences in gas pipeline:
+resp_read_fun
+control_mode
+pump
+solenoid
+measurement
+result
+
+Attack Type: 2 - CMRI - Complex Malicious Response Injection Attack
+Columns with significant differences in gas pipeline:
+resp_read_fun
+control_mode
+pump
+solenoid
+measurement
+result
+
+Attack Type: 3 - MSCI - Malicious State Command Injection Attack
+Columns with significant differences in gas pipeline:
+resp_read_fun
+control_mode
+control_scheme
+pump
+solenoid
+measurement
+result
+
+Attack Type: 4 - MPCI - Malicious Parameter Command Injection Attack
+Columns with significant differences in gas pipeline:
+resp_read_fun
+setpoint
+control_mode
+pump
+solenoid
+measurement
+result
+
+Attack Type: 5 - MFCI - Malicious Function Command Injection Attack
+Columns with significant differences in gas pipeline:
+resp_read_fun
+sub_function
+setpoint
+control_mode
+pump
+solenoid
+measurement
+result
+
+Attack Type: 6 - DoS - Denial of Service
+Columns with significant differences in gas pipeline:
+comm_read_function
+resp_read_fun
+control_mode
+pump
+solenoid
+measurement
+result
+
+Attack Type: 7 - Reconnaissance - Probe for System Information
+Columns with significant differences in gas pipeline:
+response_memory
+response_memory_count
+resp_read_fun
+resp_write_fun
+resp_length
+control_mode
+pump
+solenoid
+measurement
+result

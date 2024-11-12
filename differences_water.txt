@@ -1,0 +1,68 @@
+
+Attack Type: 1 - NMRI - Naive Malicious Response Injection Attack
+Columns with significant differences in water pipeline:
+control_mode
+pump
+crc_rate
+measurement
+result
+
+Attack Type: 2 - CMRI - Complex Malicious Response Injection Attack
+Columns with significant differences in water pipeline:
+control_mode
+pump
+crc_rate
+measurement
+result
+
+Attack Type: 3 - MSCI - Malicious State Command Injection Attack
+Columns with significant differences in water pipeline:
+HH
+H
+LL
+control_mode
+pump
+crc_rate
+measurement
+result
+
+Attack Type: 4 - MPCI - Malicious Parameter Command Injection Attack
+Columns with significant differences in water pipeline:
+HH
+H
+L
+LL
+control_mode
+pump
+crc_rate
+measurement
+result
+
+Attack Type: 5 - MFCI - Malicious Function Command Injection Attack
+Columns with significant differences in water pipeline:
+sub_function
+control_mode
+pump
+crc_rate
+measurement
+result
+
+Attack Type: 6 - DoS - Denial of Service
+Columns with significant differences in water pipeline:
+control_mode
+pump
+crc_rate
+measurement
+result
+
+Attack Type: 7 - Reconnaissance - Probe for System Information
+Columns with significant differences in water pipeline:
+response_memory
+response_memory_count
+resp_write_fun
+resp_length
+control_mode
+pump
+crc_rate
+measurement
+result
